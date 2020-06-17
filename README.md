@@ -1,2 +1,4 @@
-# dailytraining
-Algorithm daily training exercises. Still need to select the frameworks and all.. 
+# Training for different algorythms.
+
+Algorithm daily training exercises.
+
